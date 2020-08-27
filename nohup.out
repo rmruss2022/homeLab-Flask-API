@@ -1,0 +1,91 @@
+[2020-08-10 10:56:22 -0400] [19528] [INFO] Starting gunicorn 20.0.4
+[2020-08-10 10:56:22 -0400] [19528] [INFO] Listening at: http://192.168.6.37:5000 (19528)
+[2020-08-10 10:56:22 -0400] [19528] [INFO] Using worker: sync
+[2020-08-10 10:56:22 -0400] [19540] [INFO] Booting worker with pid: 19540
+[2020-08-10 11:08:27 -0400] [19528] [INFO] Handling signal: int
+[2020-08-10 11:08:27 -0400] [19540] [INFO] Worker exiting (pid: 19540)
+60367
+time diff greater than 1 hr
+temp: 77.0
+60397
+time diff greater than 1 hr
+temp: 77.0
+60427
+time diff greater than 1 hr
+temp: 77.0
+60448
+time diff greater than 1 hr
+temp: 77.0
+60529
+time diff greater than 1 hr
+temp: 77.0
+60559
+time diff greater than 1 hr
+temp: 77.0
+60589
+time diff greater than 1 hr
+temp: 77.0
+60620
+time diff greater than 1 hr
+temp: 77.0
+60650
+time diff greater than 1 hr
+temp: 77.0
+60680
+time diff greater than 1 hr
+temp: 75.2
+60710
+time diff greater than 1 hr
+temp: 75.2
+60741
+time diff greater than 1 hr
+Sensor failure. Check wiring.
+60741
+time diff greater than 1 hr
+temp: 75.2
+60771
+time diff greater than 1 hr
+temp: 75.2
+60801
+time diff greater than 1 hr
+Sensor failure. Check wiring.
+60802
+time diff greater than 1 hr
+temp: 75.2
+60832
+time diff greater than 1 hr
+temp: 75.2
+60862
+time diff greater than 1 hr
+temp: 75.2
+60892
+time diff greater than 1 hr
+temp: 75.2
+60922
+time diff greater than 1 hr
+temp: 75.2
+60953
+time diff greater than 1 hr
+Sensor failure. Check wiring.
+60953
+time diff greater than 1 hr
+temp: 75.2
+60983
+time diff greater than 1 hr
+temp: 75.2
+61013
+time diff greater than 1 hr
+temp: 75.2
+61042
+time diff greater than 1 hr
+Sensor failure. Check wiring.
+61043
+time diff greater than 1 hr
+temp: 75.2
+61073
+time diff greater than 1 hr
+Sensor failure. Check wiring.
+61073
+time diff greater than 1 hr
+temp: 75.2
+[2020-08-10 11:08:27 -0400] [19528] [INFO] Shutting down: Master
